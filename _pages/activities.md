@@ -1,19 +1,20 @@
 ---
 layout: archive
-title: "Activities"
+title: ""
 permalink: /activities/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  You can find my publications and preprints on [my Google Scholar profile](https://scholar.google.com/citations?user=1aal5_wAAAAJ&hl=zh-CN)
-{% endif %}
+Talks
+=====
+* _Exotic gapped boundaries of fracton phases in the Checkerboard model_ <br>
+  **APS March meeting**, Minneapolis, US | March 2024.
 
-{% include base_path %}
+Posters
+=======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-* Ancilla-free scheme of deterministic topological quantum gates for Majorana qubits <br>
-   _Su-Qi Zhang, Jian-Song Hong, **Yuan Xue**, Xun-Jiang Luo, Li-Wei Yu, Xiong-Jun Liu, Xin Liu_ <br>
-   Physics Review B, 2024 | [arXiv: 2305.18190](https://arxiv.org/abs/2305.18190)
+* _Spin polarons in higher Chern bands_ <br>
+  **MRSEC Annual Meeting + Industry Day at The University of Texas at Austin**, Austin, US | February, 2024
+  
+* _Spin polarons in higher Chern bands_ <br>
+  **Princeton Summer School on Condensed Matter Physics: Fractionalization, criticality and unconventional quantum materials**, Princeton, US | July, 2023
