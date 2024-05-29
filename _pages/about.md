@@ -9,9 +9,9 @@ redirect_from:
 
 About me
 ======
-Hi there! This is Yuan Xue (薛源), a physics Ph.D student at The University of Texax at Austin. I am working with [Matteo Ippoliti](https://matteoippoliti.com/) and [Eslam Khalaf](https://www.physics.harvard.edu/people/facpages/khalaf).
+Hi there! This is Yuan Xue (薛源), a physics Ph.D student at The University of Texax at Austin. I am working with [Matteo Ippoliti](https://matteoippoliti.com/) and [Eslam Khalaf](https://www.physics.harvard.edu/people/facpages/khalaf). My interests lie in a broad range of topics in theoretical physics. Currently, I am focusing on quantum Information, fracton topological order and Moiré physics.
 
-My interests lie in a broad range of topics in theoretical physics. Currently, I am focusing on quantum Information, fracton topological order and Moiré physics.
+Email: yuan_xue-AT-utexas-DOT-edu
 
 Education
 ------
