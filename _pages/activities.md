@@ -18,3 +18,11 @@ Posters
   
 * _Spin polarons in higher Chern bands_ <br>
   **Princeton Summer School on Condensed Matter Physics: Fractionalization, criticality and unconventional quantum materials**, Princeton, US | July, 2023
+
+Teaching
+========
+
+* PHY 362K: Quantum physics II: atoms/molecules, Fall 2024, UT Austin.
+* Directed Reading Program in Physics, Fall 2023, UT Austin.
+* PHY 105N: Introductory electricity, magnetism, and optics laboratory, Spring 2023, UT Austin.
+* PHY 105N: Introductory electricity, magnetism, and optics laboratory, Fall 2022, UT Austin.
