@@ -9,8 +9,7 @@ redirect_from:
 
 About me
 ======
-Hi there! This is Yuan Xue (薛源), a physics PhD student at The University of Texax at Austin. I am working with [Matteo Ippoliti]
-(https://matteoippoliti.com/) and [Eslam Khalaf](https://www.physics.harvard.edu/people/facpages/khalaf).
+Hi there! This is Yuan Xue (薛源), a physics PhD student at The University of Texax at Austin. I am working with [Matteo Ippoliti](https://matteoippoliti.com/) and [Eslam Khalaf](https://www.physics.harvard.edu/people/facpages/khalaf).
 
 Getting started
 ======
