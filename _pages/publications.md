@@ -14,4 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-1. Ancilla-free scheme of deterministic topological quantum gates for Majorana qubits
+1. Ancilla-free scheme of deterministic topological quantum gates for Majorana qubits <br>
+   _Su-Qi Zhang, Jian-Song Hong, **Yuan Xue**, Xun-Jiang Luo, Li-Wei Yu, Xiong-Jun Liu, Xin Liu_ <br>
+   Phys. Rev. B | [arXiv: 2305.18190]{https://arxiv.org/abs/2305.18190}
+2. 
