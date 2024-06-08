@@ -11,4 +11,4 @@ redirect_from:
 
 The following is a collection of short notes in physics and mathematics.
 
-__IMPORTANT‼️: I take no responsibility for any misguided beliefs that may occur 🤨__
+__IMPORTANT: I take no responsibility for any misguided beliefs that may occur__ ‼️ 🤨
