@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 * _Entanglement renormalization of fractonic anisotropic ℤ<sub>N</sub> Laplacian models_ <br>
-   **Yuan Xue<sup>†</sup>**, Pranay Gorantla<sup>†</sup>, Zhu-Xi Luo<sup>†</sup>
+   **Yuan Xue<sup>†</sup>**, Pranay Gorantla<sup>†</sup>, Zhu-Xi Luo<sup>†</sup> <br>
   [arXiv: 2409.18206](https://arxiv.org/abs/2409.18206)
   
 * _Ancilla-free scheme of deterministic topological quantum gates for Majorana qubits_ <br>
