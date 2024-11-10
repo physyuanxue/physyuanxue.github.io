@@ -22,7 +22,8 @@ Posters
 Teaching
 ========
 
+* Directed Reading Program in Physics, quantum information, Fall 2024, UT Austin.
 * PHY 362K: Quantum physics II: atoms/molecules, Fall 2024, UT Austin.
-* Directed Reading Program in Physics, Fall 2023, UT Austin.
+* Directed Reading Program in Physics, solid state physics, Fall 2023, UT Austin.
 * PHY 105N: Introductory electricity, magnetism, and optics laboratory, Spring 2023, UT Austin.
 * PHY 105N: Introductory electricity, magnetism, and optics laboratory, Fall 2022, UT Austin.
