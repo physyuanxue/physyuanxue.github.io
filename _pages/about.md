@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-Hi there! This is Yuan Xue (薛源), a physics Ph.D student at The University of Texas at Austin. I am working with [Matteo Ippoliti](https://matteoippoliti.com/).
+Hi there! This is Yuan Xue (薛源), a Ph.D. candidate in physics at The University of Texas at Austin. I am working with [Matteo Ippoliti](https://matteoippoliti.com/).
 
 My interests lie in a broad range of topics in theoretical physics. Currently, I am focusing on open quantum systems, many-body entanglement, and non-invertible symmetries.
 
