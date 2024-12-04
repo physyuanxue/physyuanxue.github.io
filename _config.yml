@@ -21,7 +21,7 @@ repository               : "physyuanxue/physyuanxue.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_avatar.png"
   name             : "Yuan Xue"
   pronouns         : "He/him"  
   bio              : ""
