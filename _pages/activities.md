@@ -21,6 +21,12 @@ Posters
 * _Spin polarons in higher Chern bands_ <br>
   **Princeton Summer School on Condensed Matter Physics: Fractionalization, criticality and unconventional quantum materials**, Princeton, US | July, 2023
 
+* _Fracton topological phases: Gapped Boundaries of X-cube and Haah's cubic code_ <br>
+  **IBPE Annual Meeting at Huazhong University of Science and Technology**, Wuhan, CN | March, 2022
+
+* _Anyon model and topological quantum computation_ <br>
+  **IBPE Annual Meeting at Huazhong University of Science and Technology**, Wuhan, CN | March, 2021
+
 Teaching
 ========
 
