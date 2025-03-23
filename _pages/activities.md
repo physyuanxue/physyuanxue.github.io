@@ -8,7 +8,7 @@ author_profile: true
 Talks
 =====
 * _Simulation of virtual bilayer systems from open and monitored quantum dynamics_ <br>
-  **APS Joint March Meeting and April Meeting**, Anaheim, CA, US | March 2025.
+  **APS Global Physics Summit**, Anaheim, CA, US | March 2025.
 * _Exotic gapped boundaries of fracton phases in the Checkerboard model_ <br>
   **APS March Meeting**, Minneapolis, MN, US | March 2024.
 * _Fracton topological phases: Gapped Boundaries of X-cube and Haah's cubic code_ <br>
