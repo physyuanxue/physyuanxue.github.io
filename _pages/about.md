@@ -15,7 +15,7 @@ My interests lie in a broad range of topics in theoretical physics. Currently, I
 
 * Open quantum systems, mixed-state phases of matter, and numerical simulations.
 * Multipartite entanglement and anomaly.
-* Non-invertible symmetries.
+* Generalized symmetries, symTFT, and TQFT
 * Classification of fracton orders.
 
 
