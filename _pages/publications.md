@@ -16,6 +16,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+* **_Simulation of bilayer Hamiltonians based on monitored quantum trajectories_** <br>
+  **Yuan Xue**, Zihan Cheng, Matteo Ippoliti <br>
+  [arXiv: 2509.13440](https://arxiv.org/abs/2509.13440)
+  
 * **_Robust super-Moiré in large angle single-twist bilayers_** <br>
   Yanxing Li, Chuqiao Shi, Fan Zhang, Xiaohui Liu, **Yuan Xue**, Viet-Anh Ha, Qiang Gao, Chengye Dong, Yu-chuan Lin, Luke N Holtsman, Nicolas Morales-Durán, Hyunsue Kim, Yi Jiang, Madisen Holbrook, James Hone, Katayun Barmak, Joshua Robinson, Xiaoqin Li, Feliciano Giustino, Eslam Khalaf, Yimo Han, Chih-Kang Shih <br>
   Nature Physics, 2025 | [arXiv: 2502.12335](https://arxiv.org/abs/2502.12335)
