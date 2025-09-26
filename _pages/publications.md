@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can find my publications and preprints on [my Google Scholar profile](https://scholar.google.com/citations?user=1aal5_wAAAAJ&hl=zh-CN)
+  You can find my publications and preprints on [my Google Scholar profile](https://scholar.google.com/citations?user=1aal5_wAAAAJ&hl=zh-CN) or [arXiv page](https://arxiv.org/a/xue_y_2.html)
   
   (†: corresponding author)
 {% endif %}
