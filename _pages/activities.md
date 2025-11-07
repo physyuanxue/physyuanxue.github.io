@@ -5,6 +5,11 @@ permalink: /activities/
 author_profile: true
 ---
 
+Workshops & programs
+=====
+
+* _KITP program_: [_Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter_](https://www.kitp.ucsb.edu/activities/finestructure25) | October, 2025
+
 Talks
 =====
 * _Simulation of virtual bilayer systems from open and monitored quantum dynamics_ <br>
