@@ -21,7 +21,6 @@ My interests lie in a broad range of topics in theoretical physics. Currently, I
 
 Email: yuan_xue-AT-utexas-DOT-edu
 
-During October, I will participate in the KITP program: [Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter](https://www.kitp.ucsb.edu/activities/finestructure25).
 
 Education
 ------
