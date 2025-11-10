@@ -8,7 +8,7 @@ author_profile: true
 Workshops & programs
 =======
 
-* _KITP program_: [Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter](https://www.kitp.ucsb.edu/activities/finestructure25) | October, 2025 <br>
+* _KITP program_: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025 <br>
 
 
 Talks
