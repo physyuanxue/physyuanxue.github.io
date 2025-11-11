@@ -31,7 +31,7 @@ Posters
 
 Workshops & programs
 =======
-* _KITP program_: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025.
+* KITP program: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025.
 
 Teaching & mentoring
 ========
