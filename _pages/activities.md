@@ -5,10 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-Workshops & programs
-=======
 
-* _KITP program_: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025 <br>
 
 
 Talks
@@ -31,7 +28,11 @@ Posters
   
 * _Spin polarons in higher Chern bands_ <br>
   **Princeton Summer School on Condensed Matter Physics: Fractionalization, criticality and unconventional quantum materials**, Princeton, NJ, US | July, 2023
-  
+
+Workshops & programs
+=======
+* _KITP program_: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025.
+
 Teaching & mentoring
 ========
 
