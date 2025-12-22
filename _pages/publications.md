@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can find my publications and preprints on [my Google Scholar profile](https://scholar.google.com/citations?user=1aal5_wAAAAJ&hl=zh-CN), [Inspire HEP](https://inspirehep.net/authors/2757451?ui-citation-summary=true) or [arXiv page](https://arxiv.org/a/xue_y_2.html)
+  You can find my publications and preprints on [Google Scholar](https://scholar.google.com/citations?user=1aal5_wAAAAJ&hl=zh-CN), [Inspire HEP](https://inspirehep.net/authors/2757451?ui-citation-summary=true) or [arXiv page](https://arxiv.org/a/xue_y_2.html)
   
   (†: corresponding author, ‡: alphabetical order)
 {% endif %}
