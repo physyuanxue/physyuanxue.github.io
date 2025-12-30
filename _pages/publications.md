@@ -16,6 +16,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+* **_On gauging finite symmetries of higher gauging condensation defects_** <br>
+  **Yuan Xue<sup>‡</sup>** and Eric. Y. Yang<sup>‡</sup> <br>
+  [arXiv: 2512.22440](https://arxiv.org/abs/2512.22440)
+
 * **_Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking_** <br>
   Zihao Qi<sup>‡</sup> and **Yuan Xue<sup>‡</sup>** <br>
   [arXiv: 2512.04155](https://arxiv.org/abs/2512.04155)
