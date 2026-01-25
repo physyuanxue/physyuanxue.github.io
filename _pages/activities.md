@@ -24,7 +24,7 @@ Talks
 Programs & workshops
 ========
 
-* Directed Reading Program in Physics, quantum dynamics and open quantum systems, Fall 2025, UT Austin.
+* KITP Program: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter, October, 2025.
 
 
 Posters
