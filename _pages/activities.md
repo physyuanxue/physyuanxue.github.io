@@ -10,6 +10,8 @@ author_profile: true
 
 Talks
 =====
+* _Simulating virtual bilayer systems via open and monitored quantum trajectories (invited)_ <br>
+  **Quantum information seminar**, NUS, Singapore | March 2026.
 * _Simulation of virtual bilayer systems from open and monitored quantum dynamics_ <br>
   **APS Global Physics Summit**, Anaheim, CA, US | March 2025.
 * _Exotic gapped boundaries of fracton phases in the Checkerboard model_ <br>
