@@ -21,7 +21,7 @@ Talks
 * _Anyon model and topological quantum computation_ <br>
   **IBPE Annual Meeting at Huazhong University of Science and Technology**, Wuhan, Hubei, CN | March, 2021
 
-Teaching & mentoring
+Programs & workshops
 ========
 
 * Directed Reading Program in Physics, quantum dynamics and open quantum systems, Fall 2025, UT Austin.
