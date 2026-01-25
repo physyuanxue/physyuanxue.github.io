@@ -21,6 +21,11 @@ Talks
 * _Anyon model and topological quantum computation_ <br>
   **IBPE Annual Meeting at Huazhong University of Science and Technology**, Wuhan, Hubei, CN | March, 2021
 
+Talks
+=====
+* _Simulating virtual bilayer systems via open and monitored quantum trajectories (invited)_ <br>
+  **Quantum information seminar**, NUS, Singapore | March 2026.
+* KITP program: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025.
 
 Posters
 =======
@@ -31,10 +36,6 @@ Posters
 * _Spin polarons in higher Chern bands_ <br>
   **Princeton Summer School on Condensed Matter Physics: Fractionalization, criticality and unconventional quantum materials**, Princeton, NJ, US | July, 2023
 
-Workshops & programs
-=======
-
-* KITP program: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025.
 
 Teaching & mentoring
 ========
