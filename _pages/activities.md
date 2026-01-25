@@ -21,11 +21,11 @@ Talks
 * _Anyon model and topological quantum computation_ <br>
   **IBPE Annual Meeting at Huazhong University of Science and Technology**, Wuhan, Hubei, CN | March, 2021
 
-Talks
-=====
-* _Simulating virtual bilayer systems via open and monitored quantum trajectories (invited)_ <br>
-  **Quantum information seminar**, NUS, Singapore | March 2026.
-* KITP program: Learning the Fine Structure of Quantum Dynamics in Programmable Quantum Matter | October, 2025.
+Teaching & mentoring
+========
+
+* Directed Reading Program in Physics, quantum dynamics and open quantum systems, Fall 2025, UT Austin.
+
 
 Posters
 =======
