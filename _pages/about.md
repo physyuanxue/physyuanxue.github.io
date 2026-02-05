@@ -11,7 +11,7 @@ About me
 ======
 Hi there! This is Yuan Xue (薛源), a Ph.D. candidate in physics at The University of Texas at Austin, working with [Matteo Ippoliti](https://matteoippoliti.com/).
 
-My interests lie in a broad range of topics in theoretical physics. Currently, I am working on: 
+My research focuses on the intersections between condensed matter theory, quantum information and high energy theory. Currently, I am working on: 
 
 * Open quantum systems, mixed-state phases of matter, and numerical simulations.
 * Quantum error correction code and non-Clifford gate.
