@@ -18,6 +18,7 @@ My research focuses on the intersections between condensed matter theory, quantu
 * Multipartite entanglement.
 * Generalized symmetries, symTFT, and TQFT.
 
+In Summer/Fall 2026, I will visit KITP as a KITP graduate fellow.
 
 Email: yuan_xue-AT-utexas-DOT-edu
 
