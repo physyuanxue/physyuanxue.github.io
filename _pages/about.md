@@ -29,4 +29,6 @@ Education
 * Exchange student, _University of California, Santa Barbara_,          Sep. 2021 to Jun. 2022.
 * B.S. in Physics, _Huazhong University of Science and Technology_,     Sep. 2018 to Jun. 2022.
 
-
+Awards & Honors
+------
+KITP Graduate Fellow, _Kavli Institute for Theoretical Physics, University of California Santa Barbara_, Fall 2026.
