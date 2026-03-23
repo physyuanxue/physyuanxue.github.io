@@ -27,7 +27,7 @@ author_profile: true
 
 * **_Simulation of bilayer Hamiltonians based on monitored quantum trajectories_** <br>
   **Yuan Xue**, Zihan Cheng, and Matteo Ippoliti <br>
-  [arXiv: 2509.13440](https://arxiv.org/abs/2509.13440)
+  Physical Review B | [arXiv: 2509.13440](https://arxiv.org/abs/2509.13440)
   
 * **_Robust super-Moiré in large angle single-twist bilayers_** <br>
   Yanxing Li, Chuqiao Shi, Fan Zhang, Xiaohui Liu, **Yuan Xue**, Viet-Anh Ha, Qiang Gao, Chengye Dong, Yu-chuan Lin, Luke N Holtsman, Nicolas Morales-Durán, Hyunsue Kim, Yi Jiang, Madisen Holbrook, James Hone, Katayun Barmak, Joshua Robinson, Xiaoqin Li, Feliciano Giustino, Eslam Khalaf, Yimo Han, and Chih-Kang Shih <br>
@@ -35,9 +35,9 @@ author_profile: true
 
 * **_Entanglement renormalization of fractonic anisotropic ℤ<sub>N</sub> Laplacian models_** <br>
    **Yuan Xue<sup>†</sup>**, Pranay Gorantla<sup>†</sup>, and Zhu-Xi Luo<sup>†</sup> <br>
- Physics Review B, 2025 | [arXiv: 2409.18206](https://arxiv.org/abs/2409.18206)
+ Physical Review B, 2025 | [arXiv: 2409.18206](https://arxiv.org/abs/2409.18206)
   
 * **_Ancilla-free scheme of deterministic topological quantum gates for Majorana qubits_** <br>
    Su-Qi Zhang, Jian-Song Hong, **Yuan Xue**, Xun-Jiang Luo, Li-Wei Yu, Xiong-Jun Liu, and Xin Liu <br>
-   Physics Review B, 2024 | [arXiv: 2305.18190](https://arxiv.org/abs/2305.18190)
+   Physical Review B, 2024 | [arXiv: 2305.18190](https://arxiv.org/abs/2305.18190)
 
