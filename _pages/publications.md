@@ -22,7 +22,7 @@ author_profile: true
 
 * **_Dissipative Yao-Lee Spin-Orbital Model: Exact Solvability and PT Symmetry Breaking_** <br>
   Zihao Qi<sup>‡</sup> and **Yuan Xue<sup>‡</sup>** <br>
-  [arXiv: 2512.04155](https://arxiv.org/abs/2512.04155)
+  Physical Review B, 2026 | [arXiv: 2512.04155](https://arxiv.org/abs/2512.04155)
  
 
 * **_Simulation of bilayer Hamiltonians based on monitored quantum trajectories_** <br>
